@@ -1,12 +1,13 @@
 ## Kyowon Song (Q0ne)
 
-#### Algorithm Study
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tim000519)](https://solved.ac/tim000519)<br/>
-
 #### My interest
 - AI/ML
 - CV / Image Processing
+
+#### Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tim000519)](https://solved.ac/tim000519)<br/>
+
   
 <!--
 **tim000519/tim000519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
